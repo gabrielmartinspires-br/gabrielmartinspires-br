@@ -18,8 +18,13 @@ Meus projetos foram desenvolvidos junto a cursos realizados
 
 Se conecte comigo!
 
-LinkedIn
-
-WhatsApp
-
-GMAIL
+##
+ 
+<div> 
+  
+  <a href="https://instagram.com/gabriell_mmartins" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/brgabrielmartins" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href = "mailto:brgabrielmartins@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabrielmartinspires-br/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
