@@ -1,16 +1,26 @@
-## Hi there 👋
+# devgabrielmartins
 
-<!--
-**gabrielmartinspires-br/gabrielmartinspires-br** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seja bem vindo ao meu github!
+Me chamo Gabriel Martins Pires 💻 🎮 ☕ 🤘
 
-Here are some ideas to get you started:
+Um entusiasta apaixonado por tecnologia e isto me fez trilhar este caminho da programação. Possuo experiência em HTML5 e CSS3, atualmente estou focando nas tecnologias voltadas ao Front-End.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudei Gestão da Tecnologia da informação na UNISUL e juntamente com Analise e Desenvolvimento de Sistemas na Anhanguera, hoje estou aprendendo tecnologias como HTML, CSS, JavaScript e Python.
+
+Linguagens que tenho o conhecimento
+
+html - - CSS - - JavaScript - - GIT - - PYTHON - - MYSQL
+
+O que você encontrará em meu Github?
+
+Projetos Front - end 
+
+Meus projetos foram desenvolvidos junto a cursos realizados 
+
+Se conecte comigo!
+
+LinkedIn
+
+WhatsApp
+
+GMAIL
