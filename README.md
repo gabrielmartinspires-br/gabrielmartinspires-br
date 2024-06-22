@@ -19,6 +19,12 @@ Estudei Gestão da Tecnologia da informação na UNISUL e juntamente com Analise
  <img align="center" height="30" width="70" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </div>
 
+#### Serviços de Hospedagem Cloud:
+
+<div>
+ <img align="center" height="30" width="90" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+</div>
+
 #### Conhecimento básico com Banco de dados:
 
 <div>
