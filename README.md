@@ -22,7 +22,7 @@ Estudei Gestão da Tecnologia da informação na UNISUL e juntamente com Analise
 #### Conhecimento básico com Banco de dados:
 
 <div>
- <img align="center" height="30" width="70" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+ <img align="center" height="30" width="90" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
 #### Controle de versão:
@@ -43,7 +43,7 @@ Estudei Gestão da Tecnologia da informação na UNISUL e juntamente com Analise
 
 <div>
  <img align="center" height="30" width="70" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
- <img align="center" height="30" width="70" src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=white" /
+ <img align="center" height="30" width="70" src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=white" />
  <img align="center" height="30" width="70" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
 </div>
 
