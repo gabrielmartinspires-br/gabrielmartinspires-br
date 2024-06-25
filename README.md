@@ -2,7 +2,7 @@
 
 Me chamo Gabriel Martins Pires 💻 🎮 ☕ 🤘
 
-Um entusiasta apaixonado por tecnologia e isto me fez trilhar este caminho da programação. Possuo experiência em HTML5 e CSS3, atualmente estou focando nas tecnologias voltadas ao Front-End.
+Sou um entusiasta apaixonado por tecnologia e isto me fez trilhar este caminho da programação. Possuo experiência em HTML5 e CSS3, atualmente estou focando nas tecnologias voltadas ao Front-End.
 
 Estudei Gestão da Tecnologia da informação na UNISUL e juntamente com Analise e Desenvolvimento de Sistemas na Anhanguera, hoje estou aprendendo HTML, CSS, JavaScript, Python e outras tecnologias.
 
